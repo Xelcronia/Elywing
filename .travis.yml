@@ -19,7 +19,7 @@ notifications:
 
 deploy:
   provider: releases
-  api_key: "4dc30a71260a9af2c9033c0686c2f8e90c38b869"
+  api_key: "77b9468d46c6597e5d76c4cc61e392ab5b420bf0"
   file: "Elywing.phar"
   skip_cleanup: true
   on:
